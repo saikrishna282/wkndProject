@@ -22,3 +22,6 @@ maven-eclipse.xml
 .DS_Store
 *.dir
 .idea
+*.jar
+
+#Ignore Project specific files
